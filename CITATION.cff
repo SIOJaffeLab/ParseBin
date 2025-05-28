@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Memory bus simulation scripts"
+version: 1.0.1
+type: software
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Joseph
+    family-names: Snider
+    affiliation: UC San Diego
+    orcid: "https://orcid.org/0000-0002-0176-5107"
+doi: 10.5281/zenodo.15466654
