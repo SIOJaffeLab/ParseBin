@@ -32,3 +32,6 @@ share/python-wheels/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# output test files
+disco*.hdf5
